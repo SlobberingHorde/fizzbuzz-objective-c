@@ -19,6 +19,6 @@
 @property (weak, nonatomic) IBOutlet UILabel* theResponse;
 @property (weak, nonatomic) IBOutlet UIStepper* theStepper;
 
-- (IBAction)valueChanged:(id)sender;
+- (IBAction) valueChanged:(id)sender;
 
 @end
